@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  github-search
-//
-//  Created by Luka Basic on 14.07.2021..
-//
 
 import UIKit
 
